@@ -1,0 +1,7 @@
+C:\Users\Ronad\source\repos\Lab8WithObjects\Lab8WithObjects\bin\Debug\Lab8WithObjects.exe.config
+C:\Users\Ronad\source\repos\Lab8WithObjects\Lab8WithObjects\bin\Debug\Lab8WithObjects.exe
+C:\Users\Ronad\source\repos\Lab8WithObjects\Lab8WithObjects\bin\Debug\Lab8WithObjects.pdb
+C:\Users\Ronad\source\repos\Lab8WithObjects\Lab8WithObjects\obj\Debug\Lab8WithObjects.csprojAssemblyReference.cache
+C:\Users\Ronad\source\repos\Lab8WithObjects\Lab8WithObjects\obj\Debug\Lab8WithObjects.csproj.CoreCompileInputs.cache
+C:\Users\Ronad\source\repos\Lab8WithObjects\Lab8WithObjects\obj\Debug\Lab8WithObjects.exe
+C:\Users\Ronad\source\repos\Lab8WithObjects\Lab8WithObjects\obj\Debug\Lab8WithObjects.pdb
